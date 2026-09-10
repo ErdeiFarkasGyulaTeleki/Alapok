@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Auto/Auto.csproj" />
+  <Project Path="Bankszamla/Bankszamla.csproj" Id="2b03d6ef-3489-4803-9257-069b1eacdf06" />
   <Project Path="Valuta/Valuta.csproj" Id="d2146d15-25ed-4e55-b6be-cddfd1faac9b" />
 </Solution>
