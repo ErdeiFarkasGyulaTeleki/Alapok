@@ -12,6 +12,11 @@
             }
         }
 
+        public Jatekos(string _nev)
+        {
+            this.Nev = _nev;
+        }
+
         public void Kiiras()
         {
             Console.WriteLine($"A {Nev} nevű játékos életereje: {Elet}.");
