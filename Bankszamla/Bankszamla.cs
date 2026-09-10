@@ -3,7 +3,7 @@
     public class Bankszamla
     {
         private double egyenleg = 0;
-        private bool log = false;
+        public bool log = false;
 
         public Bankszamla()
         {
