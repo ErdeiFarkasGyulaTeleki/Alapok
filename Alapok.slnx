@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Auto/Auto.csproj" />
   <Project Path="Bankszamla/Bankszamla.csproj" Id="2b03d6ef-3489-4803-9257-069b1eacdf06" />
+  <Project Path="Jatekos/Jatekos.csproj" Id="45669980-2210-4ae7-8a64-4c0b35bf5afd" />
   <Project Path="Valuta/Valuta.csproj" Id="d2146d15-25ed-4e55-b6be-cddfd1faac9b" />
 </Solution>
